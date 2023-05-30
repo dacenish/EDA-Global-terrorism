@@ -1,4 +1,4 @@
-## Exploratory Data Analysis on Global Terrorism Database.
+# Exploratory Data Analysis on Global Terrorism Database.
 
 The EDA project on global terrorism aims to delve into comprehensive analysis and visualization of terrorism-related data from around the world. Terrorism continues to be a major global concern, and understanding its patterns, trends, and underlying factors is crucial for formulating effective counterterrorism strategies.
 
