@@ -4,10 +4,9 @@ The EDA project on global terrorism aims to delve into comprehensive analysis an
 
 The project will leverage a rich dataset compiled from various reliable sources, encompassing a wide range of variables including but not limited to: geographical location, date and time of attacks, target types, attack methods, terrorist groups, casualties, and socioeconomic indicators. This dataset will serve as the foundation for conducting in-depth exploratory data analysis.
 
---
+
 <img src="https://github.com/dacenish/EDA-Global-terrorism/assets/82972335/18faa27c-346f-4ad8-992b-7392cd552405" alt="terror1" width="100%">
 --
-The project will leverage a rich dataset compiled from various reliable sources, encompassing a wide range of variables including but not limited to: geographical location, date and time of attacks, target types, attack methods, terrorist groups, casualties, and socioeconomic indicators. This dataset will serve as the foundation for conducting in-depth exploratory data analysis.
 
 #**The primary objectives of the project include:**
 
