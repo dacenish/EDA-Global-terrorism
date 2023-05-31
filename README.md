@@ -7,9 +7,6 @@ The project will leverage a rich dataset compiled from various reliable sources,
 
 <img src="https://github.com/dacenish/EDA-Global-terrorism/assets/82972335/18faa27c-346f-4ad8-992b-7392cd552405" alt="terror1" width="100%">
 
-<img src= "https://drive.google.com/file/d/1Rfrz9srcZKwlsxEBT5P5mI4zPGLFpCdm/view?usp=sharing" alt="terror1" width="100%">
-
-
 # **The Primary Objectives Of The Project Include:**
 
 **Data Cleaning and Preparation:** The dataset will undergo a thorough cleaning process, ensuring data integrity, handling missing values, and standardizing variables for consistent analysis. Relevant features will be selected, and any redundant or irrelevant data will be removed.
