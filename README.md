@@ -24,4 +24,6 @@ The project will leverage a rich dataset compiled from various reliable sources,
 By conducting an in-depth exploratory analysis of global terrorism, this project seeks to provide valuable insights into the patterns, trends, and underlying factors associated with terrorist activities. The outcomes of this analysis can contribute to informed decision-making processes and the development of more effective counterterrorism strategies to promote global peace and security.
 
 # **Certificate Of the Project:**
-<img src="https://certificates.almabetter.com/en/verify/06186240852479?ref=email" alt="terror1" width="100%">
+
+<img src="https://github.com/dacenish/EDA-Global-terrorism/assets/82972335/9e21c429-beb7-4b68-a07d-12fbe7048675" alt="terror1" width="100%">
+
