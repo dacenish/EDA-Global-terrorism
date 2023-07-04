@@ -22,3 +22,6 @@ The project will leverage a rich dataset compiled from various reliable sources,
 **Visualization**: Throughout the project, data visualization techniques, including charts, graphs, maps, and interactive dashboards, will be employed to present the findings effectively. These visualizations will aid in conveying complex information in a clear and concise manner.
 
 By conducting an in-depth exploratory analysis of global terrorism, this project seeks to provide valuable insights into the patterns, trends, and underlying factors associated with terrorist activities. The outcomes of this analysis can contribute to informed decision-making processes and the development of more effective counterterrorism strategies to promote global peace and security.
+
+# **Certificate Of the Project:**
+<img src="https://certificates.almabetter.com/en/verify/06186240852479?ref=email" alt="terror1" width="100%">
